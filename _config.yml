@@ -19,3 +19,6 @@ sitemap: true
 # 作者信息
 author:
   name: "Rin"
+
+# 永久链接设置
+permalink: /:year/:month/:day/:title:output_ext
